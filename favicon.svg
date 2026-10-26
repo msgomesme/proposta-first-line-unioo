@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 612">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .c-fill { fill: #a7bd7e; }
+      .c-stroke { stroke: #a7bd7e; }
+    }
+  </style>
+  <circle class="c-fill" cx="335" cy="306" r="240" fill="#414f2f"/>
+  <circle class="c-stroke" cx="565" cy="306" r="220" fill="none" stroke="#414f2f" stroke-width="56"/>
+</svg>
